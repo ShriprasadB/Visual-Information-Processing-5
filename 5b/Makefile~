@@ -1,0 +1,9 @@
+main:
+	g++ -o 5bb 5bb.cpp `pkg-config --cflags --libs opencv`
+	
+run:
+	./5bb
+
+clean:
+	rm 5bb
+	

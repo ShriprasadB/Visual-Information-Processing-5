@@ -1,0 +1,31 @@
+Shriprasad Bhamare
+sbhamar1@binghamton.edu
+
+
+-------------------------------------------------------------------------------------
+In order to compile  code
+type command
+ 
+make
+------------------------------------------------------------------------------------
+In order to run code
+type command
+ 
+make run
+-------------------------------------------------------------------------------------
+In order to remove generated object files
+type command
+ 
+make clean
+----------------------------------------------------------------------------------------
+
+1)It will ask for a path of image with name
+
+2)Give path of image 
+
+3)For binary image write K in code in image swapping section in switch case where one image got displayed it will display next image
+
+4)For binary image write M in code in image swapping section in switch case where one image got displayed it will display next image
+
+5)Repeat this for respective images
+----------------------------------------------------------------------------------------
