@@ -1,9 +1,0 @@
-main:
-	g++ -o 5a 5a.cpp `pkg-config --cflags --libs opencv`
-	
-run:
-	./5a
-
-clean:
-	rm 5a
-	
